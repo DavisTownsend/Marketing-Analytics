@@ -7,7 +7,7 @@ This is the first homework assignment for Marketing Analytics which builds a bin
 
 
 #ATX Outwear
-This is the second homework assignment and walks through an RFM analysis and shows why a targeted RFM approach is better than random selection of customers to mail to. At the end of the report I also consider some of the pitfalls are relying solely on an RFM approach to sending out mailings.
+This is the second homework assignment and walks through an RFM analysis and shows why a targeted RFM approach is better than random selection of customers to mail to. At the end of the report I also consider some of the pitfalls of relying solely on an RFM approach to sending out mailings.
 
 [RFM Analysis: ATX Outerwear Spreadsheet](https://github.com/DavisTownsend/Marketing-Analytics/blob/master/ATX_Outerwear_Market_Rollout_Data.xlsx)
 
